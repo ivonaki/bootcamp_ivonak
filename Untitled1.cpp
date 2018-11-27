@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std; // da se ne mora std:cout svaki put pisat
+using namespace std; 
 
 int main()
 {
